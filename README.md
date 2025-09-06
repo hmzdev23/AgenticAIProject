@@ -1,7 +1,3 @@
-Got it 👍 Here’s a solid README.md draft for your project. I’ve kept it clean, professional, and structured, while highlighting what makes your project unique.
-
-AI Coding Agent
-
 An AI-powered coding agent built with Python and the Gemini Flash API. The agent can:
 
 Read and analyze files in your codebase
